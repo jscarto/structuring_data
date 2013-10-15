@@ -1,6 +1,6 @@
 Structuring Data
 ================
-
+This repository will be home to documents, tutorials, and other helpful resources for structuring data.
 
 
 # Spatial Data
@@ -13,6 +13,7 @@ Structuring Data
 * [Geospatial Data Abstraction Library (GDAL)](http://www.gdal.org/) - Open source toolkit for converting, georeferencing, and projecting spatial data.
 * [QGIS](http://www.qgis.org/en/site/) - Open source geographic information system (GIS). Requires GDAL. Python modules are recommended. See [KyngChaos Wiki](http://www.qgis.org/en/site/) for OS X info.
 * [PostGIS](http://postgis.net/) - Spatially enabled PostgreSQL relational database. For OS X users, [Postgres.app](http://postgresapp.com/) is a recommended 1-click installer.
+* [GIS tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - "_Big data spatial analytics_" frameworks and APIs from Esri.
 
 ## Styling and Visualizing Spatial Data
 * [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) - Learn the CartoCSS language for styling spatial data. Very similar to Cascading Stylesheets (CSS) for the web.
